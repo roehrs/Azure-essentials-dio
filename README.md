@@ -23,7 +23,8 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 ## 💻 Projetos e Desafios
 
 Veja os projetos e desafios que completei durante o bootcamp:
-- **Desafio 1**: [Criação de VM em Azure]([https://github.com/GuylhermeI/desafio-azure-dio/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o-de-VM-em-Azure.md](https://github.com/roehrs/Azure-essentials-dio/blob/main/Criacao-vm-azure.md))
+- **Desafio 1**: [Criação de VM em Azure][(https://github.com/roehrs/Azure-essentials-dio/blob/main/Criacao-vm-azure.md)]
+- **Desafio 2**: [Configurando uma instância de Banco de Dados na Azure][(https://github.com/roehrs/Azure-essentials-dio/blob/main/Instancia-banco-dados.md)]
 
 
 ## 🔗 Azure
